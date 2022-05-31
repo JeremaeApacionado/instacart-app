@@ -1,0 +1,31 @@
+Heroku
+Remote name for heroku (heroku)
+git add .
+git commit -am "message"
+git push + remote name + branch
+
+
+Github
+Github remote name (origin)
+git pull + remote name + branch
+git status
+git add . or git add + filename
+git status
+git commit -m "message"
+git push + remote name +branch
+
+cloning
+git clone + link from github you want to clone
+cd + filename (yung name ng project na naclone mo)
+git status (to check)
+git remote -v
+git remote add + remote name + token and link 
+git pull + remote name + branch
+git status
+git add . or git add + filename
+git status
+git commit -m "message"
+git push + remote name +branch
+
+Note!!!
+dont change the branch name thanks!
